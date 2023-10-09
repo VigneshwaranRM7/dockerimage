@@ -1,1 +1,1 @@
-FROM java9
+FROM java:7
