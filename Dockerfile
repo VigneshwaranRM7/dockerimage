@@ -1,1 +1,1 @@
-FROM java:11
+FROM alpine
