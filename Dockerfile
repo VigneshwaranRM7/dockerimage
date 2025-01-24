@@ -1,1 +1,1 @@
-FROM tomcat:10.0
+FROM tomcat:11.0
